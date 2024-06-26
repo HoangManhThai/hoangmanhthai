@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm HOANG MANH THAI
 
 ## Github Contributes
-![](https://github-readme-stats.vercel.app/api?username=hoangmanhthai&show_icons=true&theme=transparent)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangmanhthai&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Ngôn%20Ngữ%20Hay%20Dùng)<br/>
+![](https://github-readme-stats-five-virid-40.vercel.app/api?username=hoangmanhthai&show_icons=true&theme=transparent)
+![](https://github-readme-stats-five-virid-40.vercel.app/api/top-langs/?username=hoangmanhthai&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Ngôn%20Ngữ%20Hay%20Dùng)<br/>
 
 ## 🌐Socials
 
